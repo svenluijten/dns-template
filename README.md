@@ -1,5 +1,5 @@
 # DNS records
-This is a template repository for managing your DNS records with [DNSControl](https://stackexchange.github.io/dnscontrol/). Read [the accompanying blog post](https://svenluijten.com/manage-your-dns-from-github-with-dnscontrol) for more information.
+This is a template repository for managing your DNS records with [DNSControl](https://stackexchange.github.io/dnscontrol/). Read [the accompanying blog post](https://svenluijten.com/posts/manage-your-dns-from-github-with-dnscontrol) for more information.
 
 ## Thanks
 - Everyone at [StackExchange](https://github.com/StackExchange) for bringing us [DNSControl](https://github.com/StackExchange/dnscontrol).  
